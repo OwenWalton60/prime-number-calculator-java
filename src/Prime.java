@@ -1,5 +1,11 @@
 import java.util.ArrayList;
 
+/**
+ * function which passes in an array list of integers and returns an array list of the integers that were prime
+ *
+ * @author Owen Walton
+ */
+
 public class Prime {
 
     public static ArrayList<Integer> onlyPrimes(ArrayList<Integer> numbers) {
